@@ -53,3 +53,20 @@ button{
 #airth{
     background-color: rgb(255, 170, 0);
 }
+@media ( max-width:400px){
+    button{
+        height:50px;
+        width:65px;
+    }
+    #zero{
+        width:140px;
+    }
+    #display{
+        
+        width:235px
+    }
+    #container{
+        border: 5px solid black;
+    }
+   
+}
